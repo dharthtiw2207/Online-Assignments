@@ -35,6 +35,8 @@ The output might be:
 Longest compound word: ratcatdogcat
 Second longest compound word: catsdogcats
 Total time taken: 10 ms
+
+
 ![Screenshot 2024-09-01 170851](https://github.com/user-attachments/assets/2d4a5dad-3db6-4a41-b40a-9296b27c74c3)
 
 # Example Output2
@@ -45,4 +47,6 @@ The output might be:
 Longest Compound Word: ethylenediaminetetraacetates
 Second Longest Compound Word: electroencephalographically
 Time taken to process file Input_02.txt: 98 milliseconds
+
+
 ![Screenshot 2024-09-01 170914](https://github.com/user-attachments/assets/e734a19c-a87f-4f07-bc35-e209363f1f08)
