@@ -32,8 +32,8 @@ View the Results: The program will output the longest and second-longest compoun
 
 The output might be:
 
-Longest compound word: ratcatdogcat
-Second longest compound word: catsdogcats
+Longest compound word: ratcatdogcat<br>
+Second longest compound word: catsdogcats<br>
 Total time taken: 10 ms
 
 
@@ -44,8 +44,8 @@ Total time taken: 10 ms
 
 The output might be:
 
-Longest Compound Word: ethylenediaminetetraacetates
-Second Longest Compound Word: electroencephalographically
+Longest Compound Word: ethylenediaminetetraacetates<br>
+Second Longest Compound Word: electroencephalographically<br>
 Time taken to process file Input_02.txt: 98 milliseconds
 
 
